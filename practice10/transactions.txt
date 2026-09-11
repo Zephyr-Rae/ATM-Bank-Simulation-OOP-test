@@ -1,0 +1,119 @@
+Timestamp: 2026-08-31 18:54:28
+Account Number: 1234
+Account: Clyde Balaman
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱2000.00
+Balance After: ₱12000.00
+
+Timestamp: 2026-08-31 18:55:07
+Account Number: 1234
+Account: Clyde Balaman
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱5000.00
+Balance After: ₱17000.00
+
+Timestamp: 2026-08-31 18:55:49
+Account Number: 1234
+Account: Clyde Balaman
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱1500.00
+Balance After: ₱15500.00
+Timestamp: 2026-09-10 16:58:34
+Account Number: 2023110176
+Account: Clarissa Rae D. Gallinero
+Account Type: Savings Account
+Transaction: Deposit
+Amount: P1000.00
+Balance After: P11000.00
+
+Timestamp: 2026-09-10 16:58:34
+Account Number: 2023110176
+Account: Clarissa Rae D. Gallinero
+Account Type: Savings Account
+Transaction: Deposit
+Amount: P1000.00
+Balance After: P12000.00
+
+Timestamp: 2026-09-10 16:59:00
+Account Number: 2023110176
+Account: Clarissa Rae D. Gallinero
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: P1000.00
+Balance After: P11000.00
+
+Timestamp: 2026-09-10 17:44:56
+Account Number: 2023110176
+Account: Clarissa Rae D. Gallinero
+Account Type: Savings Account
+Transaction: Deposit
+Amount: P1000.00
+Balance After: P12000.00
+
+Timestamp: 2026-09-10 17:45:13
+Account Number: 2023110176
+Account: Clarissa Rae D. Gallinero
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: P1500.00
+Balance After: P10500.00
+
+Timestamp: 2026-09-10 17:46:15
+Account Number: 123456789
+Account: Rae Gallinero
+Account Type: Student Account
+Transaction: Deposit
+Amount: P500.00
+Balance After: P5500.00
+
+Timestamp: 2026-09-10 17:46:19
+Account Number: 123456789
+Account: Rae Gallinero
+Account Type: Student Account
+Transaction: Withdraw
+Amount: P250.00
+Balance After: P5250.00
+
+Timestamp: 2026-09-11 21:33:33
+Account Number: 1234567890
+Account: Leon Kennedy
+Account Type: Savings Account
+Transaction: Deposit
+Amount: P3000.00
+Balance After: P5500.00
+
+Timestamp: 2026-09-11 21:33:57
+Account Number: 1234567890
+Account: Leon Kennedy
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: P600.00
+Balance After: P4900.00
+
+Timestamp: 2026-09-11 21:42:56
+Account Number: 22228888
+Account: Claude Clawmark
+Account Type: Student Account
+Transaction: Deposit
+Amount: P5000.00
+Balance After: P10500.00
+
+Timestamp: 2026-09-11 21:43:14
+Account Number: 22228888
+Account: Claude Clawmark
+Account Type: Student Account
+Transaction: Withdraw
+Amount: P2250.00
+Balance After: P8250.00
+
+Timestamp: 2026-09-11 21:43:39
+Account Number: 22228888
+Account: Claude Clawmark
+Account Type: Student Account
+Transaction: Deposit
+Amount: P500.00
+Balance After: P8750.00
+
